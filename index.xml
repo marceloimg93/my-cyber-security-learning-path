@@ -16,5 +16,15 @@
       <description>Hello world! :)</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://marceloimg93.github.io/my-cyber-security-learning-path/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marceloimg93.github.io/my-cyber-security-learning-path/about/</guid>
+      <description>I&amp;rsquo;ve been working on IT since 2017. Back than, I started maintaing Linux server in production environments and managing/troubleshooting network;
+My school was running an infrastructure with 3COM switches connected through Optical Fibers and running VMs on a old IBM x3650 M3 (BTW, this old server is now my HomeLab&amp;hellip; lol). I had to reconstruct the whole network infrastructure using VLANs for accessing controls for different devices/people and everything was managed through a virtual Router/Firewall; Yes, I know&amp;hellip; there is a better and modern way to do it;</description>
+    </item>
+    
   </channel>
 </rss>
